@@ -22,7 +22,7 @@ Pour lancer ce projet, vous devez avoir Python installé sur votre système. La 
 
    ```bash
    git clone <url-du-depot>
-   cd tictactoe
+   cd tic-tac-toe
    ```
 
 2. **Lancez le script principal** :
